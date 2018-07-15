@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/testGLFW.dir/src/simple.c.o CMakeFiles/testGLFW.dir/deps/glad.c.o  -o testGLFW -Wl,-rpath,/home/mechmqx/workSpace/gitSpace/learnGLES/glfw_style/GLESv30/lib/mali-opengl-es-emulator ../GLESv30/lib/mali-opengl-es-emulator/libGLESv2.so ../GLESv30/lib/mali-opengl-es-emulator/libEGL.so ../glfw3/lib/libglfw3.a -lm -ldl -lpthread -lX11 

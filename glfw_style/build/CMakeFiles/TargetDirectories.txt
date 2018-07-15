@@ -1,0 +1,3 @@
+/home/mechmqx/workSpace/gitSpace/learnGLES/glfw_style/build/CMakeFiles/rebuild_cache.dir
+/home/mechmqx/workSpace/gitSpace/learnGLES/glfw_style/build/CMakeFiles/testGLFW.dir
+/home/mechmqx/workSpace/gitSpace/learnGLES/glfw_style/build/CMakeFiles/edit_cache.dir
