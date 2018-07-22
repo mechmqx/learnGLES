@@ -141,6 +141,7 @@ int main(void)
         ratio = width / (float) height;
 
         glViewport(0, 0, width, height);
+        glClearColor(0.13f,0.8f,0.4f,1.0);
         glClear(GL_COLOR_BUFFER_BIT);
 
         mat4x4_identity(m);
